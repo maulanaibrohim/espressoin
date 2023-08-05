@@ -11,7 +11,7 @@ Seluruh file yang digunakan dalam tutorial ini dapat diakses di [GitHub](https:/
 Jika repository ini diperlukan secara lokal, kalian dapat melakukan *clone repository* dengan perintah berikut:
 
 ```bash
-git clone https://github.com/maulanaibrohim/quantum-espresso.git
+git clone https://github.com/maulanaibrohim/espressoin.git
 ```
 
 ## Direktori
