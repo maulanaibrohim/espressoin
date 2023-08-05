@@ -24,6 +24,18 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-FER88EXXWR',
+          anonymizeIP: true,
+        },
+      },
+    ],
+  ],
+
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like HTML lang. For example, if your site is Chinese, you may want
@@ -139,16 +151,3 @@ const config = {
 };
 
 module.exports = config;
-module.exports = {
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        gtag: {
-          trackingID: 'G-FER88EXXWR',
-          anonymizeIP: true,
-        },
-      },
-    ],
-  ],
-};
