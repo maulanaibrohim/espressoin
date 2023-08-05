@@ -24,17 +24,6 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        gtag: {
-          trackingID: 'G-FER88EXXWR',
-          anonymizeIP: true,
-        },
-      },
-    ],
-  ],
 
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -57,6 +46,15 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+      },
+    ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-FER88EXXWR',
+          anonymizeIP: true,
         },
       },
     ],
