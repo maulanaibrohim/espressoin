@@ -54,7 +54,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: 'supportus',
-      content: '<b>Masih dalam pengembangan</b>, kontribusi <a target="_blank" rel="noopener noreferrer" href="https://github.com/maulanaibrohim">di sini</a>!',
+      content: '<b>Masih dalam pengembangan</b>, segala masukan dan saran sangat diharapkan <a target="_blank" rel="noopener noreferrer" href="https://github.com/maulanaibrohim/espressoin/issues/new/choose">di sini</a>!',
       isCloseable: true,
     },    
     // image: 'img/docusaurus-social-card.jpg',
