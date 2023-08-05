@@ -6,6 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
   title: 'EspressoIn',
   tagline: 'Teori Fungsi Kerapatan (Density Functional Theory) menggunakan Quantum Espresso',
   favicon: 'img/logo.ico',
@@ -47,13 +48,8 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      },
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
         gtag: {
-          trackingID: 'G-FER88EXXWR',
+          trackingID: 'G-999X9XX9XX',
           anonymizeIP: true,
         },
       },
