@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkespressoin=self.webpackChunkespressoin||[]).push([[4195],{2841:(e,s,n)=>{n.r(s),n.d(s,{default:()=>c});var t=n(7294),r=(n(7961),n(2263)),a=n(6550);const c=function(){const{siteConfig:e}=(0,r.Z)();return t.createElement(a.l_,{to:e.baseUrl+"beranda"})}}}]);

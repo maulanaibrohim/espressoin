@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkespressoin=self.webpackChunkespressoin||[]).push([[6143],{5963:e=>{e.exports=JSON.parse('{"permalink":"/espressoin/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

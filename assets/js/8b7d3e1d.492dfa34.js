@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkespressoin=self.webpackChunkespressoin||[]).push([[3166],{7446:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/espressoin/blog/tags/hello","allTagsPath":"/espressoin/blog/tags","count":2}')}}]);
