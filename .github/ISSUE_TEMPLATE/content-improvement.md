@@ -1,6 +1,6 @@
 ---
 name: Content Improvement
-about: report content-related errors or suggest improvements in "docs" directory
+about: Report content-related errors or suggest improvements in "docs" directory
 title: ''
 labels: ''
 assignees: ''
