@@ -28,4 +28,5 @@ Visit the [Espressoin]([https://your-website-url.com](https://maulanaibrohim.git
 
 Contributions to improve the tutorial or fix any issues are welcome! Please feel free to open a pull request or submit an issue.
 
-***This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.***
+---
+*This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.*
