@@ -22,7 +22,7 @@ Espressoin is a comprehensive tutorial for Quantum Espresso, provided in Bahasa 
 
 ## Usage
 
-Visit the [Espressoin]([https://your-website-url.com](https://maulanaibrohim.github.io/espressoin)) to access the complete tutorial.
+Visit the [Espressoin](https://your-website-url.com](https://maulanaibrohim.github.io/espressoin) to access the complete tutorial.
 
 ## Contributions
 
